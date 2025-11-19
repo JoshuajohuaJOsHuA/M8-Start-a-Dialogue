@@ -92,10 +92,11 @@ text = "And good morning sunshine"
 
 [node name="Button2" type="Button" parent="VBoxContainer/ActionButtonsVBoxContainer"]
 layout_mode = 2
-text = "The earth says Hello"
+text = "The earth says hello"
 
 [node name="Button3" type="Button" parent="VBoxContainer/ActionButtonsVBoxContainer"]
 layout_mode = 2
+text = "Hehe"
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 unique_name_in_owner = true
